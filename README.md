@@ -1,5 +1,5 @@
 # Higgs-Boson-Event-Detection
-In this repository, I have worked on higgs boson event detection project to classify given into signal or noise
+In this repository, I have worked on higgs boson event detection project to classify given into signal or noise. this dataset was opensourced by CERN in 2014 and was built from official ATLAS full-detector simulation.
 
 **Description:**
 The LHC collides bunches of protons every 50 nanoseconds within each of its four experiments, each crossing producing a random number of proton-proton collisions (with a Poisson expectation between 10 and 35, depending on the LHC parameters) called events8. Two colliding protons produce a small firework in which part of the kinetic energy of the protons is converted into new particles. Most of the resulting particles are very unstable and decay quickly into a cascade of lighter particles.
