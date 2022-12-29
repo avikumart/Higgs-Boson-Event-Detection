@@ -14,7 +14,7 @@ Particle colliders enable us to probe the fundamental nature of matter by observ
 
 **Steps taken to solve problem:**
 
-1) Data reduction by removing colinear columns and class balancing
+1) Data reduction by removing collinear columns and class balancing
 2) EDA find most significant features  
 3) Train and test split dataset with standardization of dataset
 4) Artificial neural network modeling using `Keras functional APIs`
