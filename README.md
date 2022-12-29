@@ -17,6 +17,6 @@ Particle colliders enable us to probe the fundamental nature of matter by observ
 1) Data reduction by removing colinear columns and class balancing
 2) EDA find most significant features  
 3) Train and test split dataset with standardization of dataset
-4) Artificial neural network modeling using Keras functional APIs
+4) Artificial neural network modeling using `Keras functional APIs`
 5) Validation set `precision - 99%`
 6) Saved model for inference using `.h5` file format
